@@ -1,0 +1,34 @@
+{
+  "name": "chunk-uploader",
+  "description": "A simple chunk-based file uploader",
+  "main": "src/chunk.js",
+  "authors": [
+    "Juan Sanchez"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "file",
+    "upload",
+    "chunk",
+    "chunk",
+    "upload",
+    "javascript",
+    "upload",
+    "upload"
+  ],
+  "homepage": "https://github.com/jlsan92/chunk-uploader",
+  "moduleType": [
+    "globals"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
